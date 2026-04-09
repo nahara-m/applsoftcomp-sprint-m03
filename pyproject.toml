@@ -1,7 +1,15 @@
 [project]
-name = "contexteng"
+name = "les-verbs"
 version = "0.1.0"
 requires-python = ">=3.10"
-dependencies = [
-    "pymupdf",
-]
+dependencies = []
+
+[project.scripts]
+les-verbs = "les_verbs.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = true

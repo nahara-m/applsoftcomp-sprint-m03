@@ -1,0 +1,86 @@
+{
+  "verbs": {
+    "être": {
+      "tenses": {
+        "présent": {
+          "pronouns": {
+            "je": {
+              "correct": 6,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:12:31.725635"
+            },
+            "tu": {
+              "correct": 6,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:12:31.725651"
+            },
+            "il/elle/on": {
+              "correct": 5,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:12:31.725658"
+            },
+            "nous": {
+              "correct": 3,
+              "incorrect": 2,
+              "last_practiced": "2026-04-09T02:12:31.725663"
+            },
+            "vous": {
+              "correct": 4,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:12:31.725669"
+            },
+            "ils/elles": {
+              "correct": 4,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:12:31.725674"
+            }
+          }
+        }
+      },
+      "sentence_usage": 1,
+      "sentence_skip": 0,
+      "first_practiced": "2026-04-09T01:48:04.249407"
+    },
+    "pouvoir": {
+      "tenses": {
+        "présent": {
+          "pronouns": {
+            "je": {
+              "correct": 0,
+              "incorrect": 1,
+              "last_practiced": "2026-04-09T02:13:54.476489"
+            },
+            "tu": {
+              "correct": 1,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:13:58.794303"
+            },
+            "il/elle/on": {
+              "correct": 0,
+              "incorrect": 1,
+              "last_practiced": "2026-04-09T02:14:01.051990"
+            },
+            "nous": {
+              "correct": 1,
+              "incorrect": 0,
+              "last_practiced": "2026-04-09T02:14:09.699700"
+            },
+            "vous": {
+              "correct": 0,
+              "incorrect": 1,
+              "last_practiced": "2026-04-09T02:14:12.368725"
+            },
+            "ils/elles": {
+              "correct": 0,
+              "incorrect": 1,
+              "last_practiced": "2026-04-09T02:14:16.071352"
+            }
+          }
+        }
+      },
+      "sentence_usage": 1,
+      "sentence_skip": 0,
+      "first_practiced": "2026-04-09T02:13:54.476468"
+    }
+  }
+}

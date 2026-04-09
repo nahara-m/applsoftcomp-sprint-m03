@@ -1,0 +1,4986 @@
+{
+  "verbs": [
+    {
+      "infinitive": "être",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "suis",
+          "tu": "es",
+          "il/elle/on": "est",
+          "nous": "sommes",
+          "vous": "êtes",
+          "ils/elles": "sont"
+        },
+        "imparfait": {
+          "je": "étais",
+          "tu": "étais",
+          "il/elle/on": "était",
+          "nous": "étions",
+          "vous": "étiez",
+          "ils/elles": "étaient"
+        },
+        "futur": {
+          "je": "serai",
+          "tu": "seras",
+          "il/elle/on": "sera",
+          "nous": "serons",
+          "vous": "serez",
+          "ils/elles": "seront"
+        },
+        "passé_composé": {
+          "je": "ai été",
+          "tu": "as été",
+          "il/elle/on": "a été",
+          "nous": "avons été",
+          "vous": "avez été",
+          "ils/elles": "ont été"
+        },
+        "conditionnel": {
+          "je": "serais",
+          "tu": "serais",
+          "il/elle/on": "serait",
+          "nous": "serions",
+          "vous": "seriez",
+          "ils/elles": "seraient"
+        },
+        "subjonctif": {
+          "je": "sois",
+          "tu": "sois",
+          "il/elle/on": "soit",
+          "nous": "soyons",
+          "vous": "soyez",
+          "ils/elles": "soient"
+        },
+        "plus_que_parfait": {
+          "je": "avais été",
+          "tu": "avais été",
+          "il/elle/on": "avait été",
+          "nous": "avions été",
+          "vous": "aviez été",
+          "ils/elles": "avaient été"
+        },
+        "futur_antérieur": {
+          "je": "aurai été",
+          "tu": "auras été",
+          "il/elle/on": "aura été",
+          "nous": "aurons été",
+          "vous": "aurez été",
+          "ils/elles": "auront été"
+        },
+        "passé_simple": {
+          "je": "fus",
+          "tu": "fus",
+          "il/elle/on": "fut",
+          "nous": "fûmes",
+          "vous": "fûtes",
+          "ils/elles": "furent"
+        },
+        "subjonctif_imparfait": {
+          "je": "fusse",
+          "tu": "fusses",
+          "il/elle/on": "fût",
+          "nous": "fussions",
+          "vous": "fussiez",
+          "ils/elles": "fussent"
+        },
+        "impératif": {
+          "tu": "sois",
+          "nous": "soyons",
+          "vous": "soyez"
+        }
+      }
+    },
+    {
+      "infinitive": "avoir",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "ai",
+          "tu": "as",
+          "il/elle/on": "a",
+          "nous": "avons",
+          "vous": "avez",
+          "ils/elles": "ont"
+        },
+        "imparfait": {
+          "je": "avais",
+          "tu": "avais",
+          "il/elle/on": "avait",
+          "nous": "avions",
+          "vous": "aviez",
+          "ils/elles": "avaient"
+        },
+        "futur": {
+          "je": "aurai",
+          "tu": "auras",
+          "il/elle/on": "aura",
+          "nous": "aurons",
+          "vous": "aurez",
+          "ils/elles": "auront"
+        },
+        "passé_composé": {
+          "je": "ai eu",
+          "tu": "as eu",
+          "il/elle/on": "a eu",
+          "nous": "avons eu",
+          "vous": "avez eu",
+          "ils/elles": "ont eu"
+        },
+        "conditionnel": {
+          "je": "aurais",
+          "tu": "aurais",
+          "il/elle/on": "aurait",
+          "nous": "aurions",
+          "vous": "auriez",
+          "ils/elles": "auraient"
+        },
+        "subjonctif": {
+          "je": "aie",
+          "tu": "aies",
+          "il/elle/on": "ait",
+          "nous": "ayons",
+          "vous": "ayez",
+          "ils/elles": "aient"
+        },
+        "plus_que_parfait": {
+          "je": "avais eu",
+          "tu": "avais eu",
+          "il/elle/on": "avait eu",
+          "nous": "avions eu",
+          "vous": "aviez eu",
+          "ils/elles": "avaient eu"
+        },
+        "futur_antérieur": {
+          "je": "aurai eu",
+          "tu": "auras eu",
+          "il/elle/on": "aura eu",
+          "nous": "aurons eu",
+          "vous": "aurez eu",
+          "ils/elles": "auront eu"
+        },
+        "passé_simple": {
+          "je": "eus",
+          "tu": "eus",
+          "il/elle/on": "eut",
+          "nous": "eûmes",
+          "vous": "eûtes",
+          "ils/elles": "eurent"
+        },
+        "subjonctif_imparfait": {
+          "je": "eusse",
+          "tu": "eusses",
+          "il/elle/on": "eût",
+          "nous": "eussions",
+          "vous": "eussiez",
+          "ils/elles": "eussent"
+        },
+        "impératif": {
+          "tu": "aie",
+          "nous": "ayons",
+          "vous": "ayez"
+        }
+      }
+    },
+    {
+      "infinitive": "aller",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "vais",
+          "tu": "vas",
+          "il/elle/on": "va",
+          "nous": "allons",
+          "vous": "allez",
+          "ils/elles": "vont"
+        },
+        "imparfait": {
+          "je": "allais",
+          "tu": "allais",
+          "il/elle/on": "allait",
+          "nous": "allions",
+          "vous": "alliez",
+          "ils/elles": "allaient"
+        },
+        "futur": {
+          "je": "irai",
+          "tu": "iras",
+          "il/elle/on": "ira",
+          "nous": "irons",
+          "vous": "irez",
+          "ils/elles": "iront"
+        },
+        "passé_composé": {
+          "je": "suis allé",
+          "tu": "es allé",
+          "il/elle/on": "est allé",
+          "nous": "sommes allés",
+          "vous": "êtes allés",
+          "ils/elles": "sont allés"
+        },
+        "conditionnel": {
+          "je": "irais",
+          "tu": "irais",
+          "il/elle/on": "irait",
+          "nous": "irions",
+          "vous": "iriez",
+          "ils/elles": "iraient"
+        },
+        "subjonctif": {
+          "je": "aille",
+          "tu": "ailles",
+          "il/elle/on": "aille",
+          "nous": "allions",
+          "vous": "alliez",
+          "ils/elles": "aillent"
+        },
+        "plus_que_parfait": {
+          "je": "étais allé",
+          "tu": "étais allé",
+          "il/elle/on": "était allé",
+          "nous": "étions allés",
+          "vous": "étiez allés",
+          "ils/elles": "étaient allés"
+        },
+        "futur_antérieur": {
+          "je": "serai allé",
+          "tu": "seras allé",
+          "il/elle/on": "sera allé",
+          "nous": "serons allés",
+          "vous": "serez allés",
+          "ils/elles": "seront allés"
+        },
+        "passé_simple": {
+          "je": "allai",
+          "tu": "allas",
+          "il/elle/on": "alla",
+          "nous": "allâmes",
+          "vous": "allâtes",
+          "ils/elles": "allèrent"
+        },
+        "subjonctif_imparfait": {
+          "je": "allasse",
+          "tu": "allasses",
+          "il/elle/on": "allât",
+          "nous": "allassions",
+          "vous": "allassiez",
+          "ils/elles": "allassent"
+        },
+        "impératif": {
+          "tu": "va",
+          "nous": "allons",
+          "vous": "allez"
+        }
+      }
+    },
+    {
+      "infinitive": "faire",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "fais",
+          "tu": "fais",
+          "il/elle/on": "fait",
+          "nous": "faisons",
+          "vous": "faites",
+          "ils/elles": "font"
+        },
+        "imparfait": {
+          "je": "faisais",
+          "tu": "faisais",
+          "il/elle/on": "faisait",
+          "nous": "faisions",
+          "vous": "faisiez",
+          "ils/elles": "faisaient"
+        },
+        "futur": {
+          "je": "ferai",
+          "tu": "feras",
+          "il/elle/on": "fera",
+          "nous": "ferons",
+          "vous": "ferez",
+          "ils/elles": "feront"
+        },
+        "passé_composé": {
+          "je": "ai fait",
+          "tu": "as fait",
+          "il/elle/on": "a fait",
+          "nous": "avons fait",
+          "vous": "avez fait",
+          "ils/elles": "ont fait"
+        },
+        "conditionnel": {
+          "je": "ferais",
+          "tu": "ferais",
+          "il/elle/on": "ferait",
+          "nous": "ferions",
+          "vous": "feriez",
+          "ils/elles": "feraient"
+        },
+        "subjonctif": {
+          "je": "fasse",
+          "tu": "fasses",
+          "il/elle/on": "fasse",
+          "nous": "fassions",
+          "vous": "fassiez",
+          "ils/elles": "fassent"
+        },
+        "plus_que_parfait": {
+          "je": "avais fait",
+          "tu": "avais fait",
+          "il/elle/on": "avait fait",
+          "nous": "avions fait",
+          "vous": "aviez fait",
+          "ils/elles": "avaient fait"
+        },
+        "futur_antérieur": {
+          "je": "aurai fait",
+          "tu": "auras fait",
+          "il/elle/on": "aura fait",
+          "nous": "aurons fait",
+          "vous": "aurez fait",
+          "ils/elles": "auront fait"
+        },
+        "passé_simple": {
+          "je": "fis",
+          "tu": "fis",
+          "il/elle/on": "fit",
+          "nous": "fîmes",
+          "vous": "fîtes",
+          "ils/elles": "firent"
+        },
+        "subjonctif_imparfait": {
+          "je": "fisse",
+          "tu": "fisses",
+          "il/elle/on": "fît",
+          "nous": "fissions",
+          "vous": "fissiez",
+          "ils/elles": "fissent"
+        },
+        "impératif": {
+          "tu": "fais",
+          "nous": "faisons",
+          "vous": "faites"
+        }
+      }
+    },
+    {
+      "infinitive": "prendre",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "prends",
+          "tu": "prends",
+          "il/elle/on": "prend",
+          "nous": "prenons",
+          "vous": "prenez",
+          "ils/elles": "prennent"
+        },
+        "imparfait": {
+          "je": "prenais",
+          "tu": "prenais",
+          "il/elle/on": "prenait",
+          "nous": "prenions",
+          "vous": "preniez",
+          "ils/elles": "prenaient"
+        },
+        "futur": {
+          "je": "prendrai",
+          "tu": "prendras",
+          "il/elle/on": "prendra",
+          "nous": "prendrons",
+          "vous": "prendrez",
+          "ils/elles": "prendront"
+        },
+        "passé_composé": {
+          "je": "ai pris",
+          "tu": "as pris",
+          "il/elle/on": "a pris",
+          "nous": "avons pris",
+          "vous": "avez pris",
+          "ils/elles": "ont pris"
+        },
+        "conditionnel": {
+          "je": "prendrais",
+          "tu": "prendrais",
+          "il/elle/on": "prendrait",
+          "nous": "prendrions",
+          "vous": "prendriez",
+          "ils/elles": "prendraient"
+        },
+        "subjonctif": {
+          "je": "prenne",
+          "tu": "prennes",
+          "il/elle/on": "prenne",
+          "nous": "prenions",
+          "vous": "preniez",
+          "ils/elles": "prennent"
+        },
+        "plus_que_parfait": {
+          "je": "avais pris",
+          "tu": "avais pris",
+          "il/elle/on": "avait pris",
+          "nous": "avions pris",
+          "vous": "aviez pris",
+          "ils/elles": "avaient pris"
+        },
+        "futur_antérieur": {
+          "je": "aurai pris",
+          "tu": "auras pris",
+          "il/elle/on": "aura pris",
+          "nous": "aurons pris",
+          "vous": "aurez pris",
+          "ils/elles": "auront pris"
+        },
+        "passé_simple": {
+          "je": "pris",
+          "tu": "pris",
+          "il/elle/on": "prit",
+          "nous": "prîmes",
+          "vous": "prîtes",
+          "ils/elles": "prirent"
+        },
+        "subjonctif_imparfait": {
+          "je": "prisse",
+          "tu": "prisses",
+          "il/elle/on": "prît",
+          "nous": "prissions",
+          "vous": "prissiez",
+          "ils/elles": "prissent"
+        },
+        "impératif": {
+          "tu": "prends",
+          "nous": "prenons",
+          "vous": "prenez"
+        }
+      }
+    },
+    {
+      "infinitive": "venir",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "viens",
+          "tu": "viens",
+          "il/elle/on": "vient",
+          "nous": "venons",
+          "vous": "venez",
+          "ils/elles": "viennent"
+        },
+        "imparfait": {
+          "je": "venais",
+          "tu": "venais",
+          "il/elle/on": "venait",
+          "nous": "venions",
+          "vous": "veniez",
+          "ils/elles": "venaient"
+        },
+        "futur": {
+          "je": "viendrai",
+          "tu": "viendras",
+          "il/elle/on": "viendra",
+          "nous": "viendrons",
+          "vous": "viendrez",
+          "ils/elles": "viendront"
+        },
+        "passé_composé": {
+          "je": "suis venu",
+          "tu": "es venu",
+          "il/elle/on": "est venu",
+          "nous": "sommes venus",
+          "vous": "êtes venus",
+          "ils/elles": "sont venus"
+        },
+        "conditionnel": {
+          "je": "viendrais",
+          "tu": "viendrais",
+          "il/elle/on": "viendrait",
+          "nous": "viendrions",
+          "vous": "viendriez",
+          "ils/elles": "viendraient"
+        },
+        "subjonctif": {
+          "je": "vienne",
+          "tu": "viennes",
+          "il/elle/on": "vienne",
+          "nous": "venions",
+          "vous": "veniez",
+          "ils/elles": "viennent"
+        },
+        "plus_que_parfait": {
+          "je": "étais venu",
+          "tu": "étais venu",
+          "il/elle/on": "était venu",
+          "nous": "étions venus",
+          "vous": "étiez venus",
+          "ils/elles": "étaient venus"
+        },
+        "futur_antérieur": {
+          "je": "serai venu",
+          "tu": "seras venu",
+          "il/elle/on": "sera venu",
+          "nous": "serons venus",
+          "vous": "serez venus",
+          "ils/elles": "seront venus"
+        },
+        "passé_simple": {
+          "je": "vins",
+          "tu": "vins",
+          "il/elle/on": "vint",
+          "nous": "vînmes",
+          "vous": "vîntes",
+          "ils/elles": "vinrent"
+        },
+        "subjonctif_imparfait": {
+          "je": "vinse",
+          "tu": "vinsses",
+          "il/elle/on": "vînt",
+          "nous": "vinssions",
+          "vous": "vinssiez",
+          "ils/elles": "vinssent"
+        },
+        "impératif": {
+          "tu": "viens",
+          "nous": "venons",
+          "vous": "venez"
+        }
+      }
+    },
+    {
+      "infinitive": "pouvoir",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "peux",
+          "tu": "peux",
+          "il/elle/on": "peut",
+          "nous": "pouvons",
+          "vous": "pouvez",
+          "ils/elles": "peuvent"
+        },
+        "imparfait": {
+          "je": "pouvais",
+          "tu": "pouvais",
+          "il/elle/on": "pouvait",
+          "nous": "pouvions",
+          "vous": "pouviez",
+          "ils/elles": "pouvaient"
+        },
+        "futur": {
+          "je": "pourrai",
+          "tu": "pourras",
+          "il/elle/on": "pourra",
+          "nous": "pourrons",
+          "vous": "pourrez",
+          "ils/elles": "pourront"
+        },
+        "passé_composé": {
+          "je": "ai pu",
+          "tu": "as pu",
+          "il/elle/on": "a pu",
+          "nous": "avons pu",
+          "vous": "avez pu",
+          "ils/elles": "ont pu"
+        },
+        "conditionnel": {
+          "je": "pourrais",
+          "tu": "pourrais",
+          "il/elle/on": "pourrait",
+          "nous": "pourrions",
+          "vous": "pourriez",
+          "ils/elles": "pourraient"
+        },
+        "subjonctif": {
+          "je": "puisse",
+          "tu": "puisses",
+          "il/elle/on": "puisse",
+          "nous": "puissions",
+          "vous": "puissiez",
+          "ils/elles": "puissent"
+        },
+        "plus_que_parfait": {
+          "je": "avais pu",
+          "tu": "avais pu",
+          "il/elle/on": "avait pu",
+          "nous": "avions pu",
+          "vous": "aviez pu",
+          "ils/elles": "avaient pu"
+        },
+        "futur_antérieur": {
+          "je": "aurai pu",
+          "tu": "auras pu",
+          "il/elle/on": "aura pu",
+          "nous": "aurons pu",
+          "vous": "aurez pu",
+          "ils/elles": "auront pu"
+        },
+        "passé_simple": {
+          "je": "pus",
+          "tu": "pus",
+          "il/elle/on": "put",
+          "nous": "pûmes",
+          "vous": "pûtes",
+          "ils/elles": "purent"
+        },
+        "subjonctif_imparfait": {
+          "je": "pusse",
+          "tu": "pusses",
+          "il/elle/on": "pût",
+          "nous": "pussions",
+          "vous": "pussiez",
+          "ils/elles": "pussent"
+        },
+        "impératif": {}
+      }
+    },
+    {
+      "infinitive": "vouloir",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "veux",
+          "tu": "veux",
+          "il/elle/on": "veut",
+          "nous": "voulons",
+          "vous": "voulez",
+          "ils/elles": "veulent"
+        },
+        "imparfait": {
+          "je": "voulais",
+          "tu": "voulais",
+          "il/elle/on": "voulait",
+          "nous": "voulions",
+          "vous": "vouliez",
+          "ils/elles": "voulaient"
+        },
+        "futur": {
+          "je": "voudrai",
+          "tu": "voudras",
+          "il/elle/on": "voudra",
+          "nous": "voudrons",
+          "vous": "voudrez",
+          "ils/elles": "voudront"
+        },
+        "passé_composé": {
+          "je": "ai voulu",
+          "tu": "as voulu",
+          "il/elle/on": "a voulu",
+          "nous": "avons voulu",
+          "vous": "avez voulu",
+          "ils/elles": "ont voulu"
+        },
+        "conditionnel": {
+          "je": "voudrais",
+          "tu": "voudrais",
+          "il/elle/on": "voudrait",
+          "nous": "voudrions",
+          "vous": "voudriez",
+          "ils/elles": "voudraient"
+        },
+        "subjonctif": {
+          "je": "veuille",
+          "tu": "veuilles",
+          "il/elle/on": "veuille",
+          "nous": "veuillions",
+          "vous": "veuilliez",
+          "ils/elles": "veuillent"
+        },
+        "plus_que_parfait": {
+          "je": "avais voulu",
+          "tu": "avais voulu",
+          "il/elle/on": "avait voulu",
+          "nous": "avions voulu",
+          "vous": "aviez voulu",
+          "ils/elles": "avaient voulu"
+        },
+        "futur_antérieur": {
+          "je": "aurai voulu",
+          "tu": "auras voulu",
+          "il/elle/on": "aura voulu",
+          "nous": "aurons voulu",
+          "vous": "aurez voulu",
+          "ils/elles": "auront voulu"
+        },
+        "passé_simple": {
+          "je": "voulus",
+          "tu": "voulus",
+          "il/elle/on": "voulut",
+          "nous": "voulûmes",
+          "vous": "voulûtes",
+          "ils/elles": "voulurent"
+        },
+        "subjonctif_imparfait": {
+          "je": "voulusse",
+          "tu": "voulusses",
+          "il/elle/on": "voulût",
+          "nous": "voulussions",
+          "vous": "voulussiez",
+          "ils/elles": "voulussent"
+        },
+        "impératif": {}
+      }
+    },
+    {
+      "infinitive": "devoir",
+      "group": "irregular",
+      "irregularity": true,
+      "conjugations": {
+        "présent": {
+          "je": "dois",
+          "tu": "dois",
+          "il/elle/on": "doit",
+          "nous": "devons",
+          "vous": "devez",
+          "ils/elles": "doivent"
+        },
+        "imparfait": {
+          "je": "devais",
+          "tu": "devais",
+          "il/elle/on": "devait",
+          "nous": "devions",
+          "vous": "deviez",
+          "ils/elles": "devaient"
+        },
+        "futur": {
+          "je": "devrai",
+          "tu": "devras",
+          "il/elle/on": "devra",
+          "nous": "devrons",
+          "vous": "devrez",
+          "ils/elles": "devront"
+        },
+        "passé_composé": {
+          "je": "ai dû",
+          "tu": "as dû",
+          "il/elle/on": "a dû",
+          "nous": "avons dû",
+          "vous": "avez dû",
+          "ils/elles": "ont dû"
+        },
+        "conditionnel": {
+          "je": "devrais",
+          "tu": "devrais",
+          "il/elle/on": "devrait",
+          "nous": "devrions",
+          "vous": "devriez",
+          "ils/elles": "devraient"
+        },
+        "subjonctif": {
+          "je": "doive",
+          "tu": "doives",
+          "il/elle/on": "doive",
+          "nous": "devions",
+          "vous": "deviez",
+          "ils/elles": "doivent"
+        },
+        "plus_que_parfait": {
+          "je": "avais dû",
+          "tu": "avais dû",
+          "il/elle/on": "avait dû",
+          "nous": "avions dû",
+          "vous": "aviez dû",
+          "ils/elles": "avaient dû"
+        },
+        "futur_antérieur": {
+          "je": "aurai dû",
+          "tu": "auras dû",
+          "il/elle/on": "aura dû",
+          "nous": "aurons dû",
+          "vous": "aurez dû",
+          "ils/elles": "auront dû"
+        },
+        "passé_simple": {
+          "je": "dus",
+          "tu": "dus",
+          "il/elle/on": "dut",
+          "nous": "dûmes",
+          "vous": "dûtes",
+          "ils/elles": "durent"
+        },
+        "subjonctif_imparfait": {
+          "je": "dusse",
+          "tu": "dusses",
+          "il/elle/on": "dût",
+          "nous": "dussions",
+          "vous": "dussiez",
+          "ils/elles": "dussent"
+        },
+        "impératif": {}
+      }
+    },
+    {
+      "infinitive": "finir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "choisir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "parler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aimer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "manger",
+      "group": "-er",
+      "irregularity": false,
+      "stem_changes": "nous_form_e"
+    },
+    {
+      "infinitive": "affirmer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éloigner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déployer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dominer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étamer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éviter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "diffuser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apporter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ennuyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arrêter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "chasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dépenser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dérober",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "emprunter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "envoyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exciter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "briser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "confier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "écrouler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étinceler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "emprisonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "envier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "adorer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "distinguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exposer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "citer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "considérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "désirer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "appeler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "diriger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calmer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "engager",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exaucer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "charger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "commenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exiger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "analyser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dresser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "casser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "abandonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "critiquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éclater",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "consister",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "épuiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "décorer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exonérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "danser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "explorer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "achever",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "articuler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blâmer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "centrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "examiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "discuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "balancer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exceller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déchirer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étudier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "chanter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "consulter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "entraîner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éparer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brûler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "changer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "annoncer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "coûter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "essayer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "démontrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "compléter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étouffer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éplucher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exécuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déposer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arriver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caresser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "expérimenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cacher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attaquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "essuyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éponger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "entrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blesser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "demeurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dégager",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "évaluer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exister",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "employer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "estimer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caractériser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "diviser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "encadrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exporter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bénéficier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "composer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "continuer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "douter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "durer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exempter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étancer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "excuser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éclairer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exprimer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "créer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "causer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avancer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "compter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "disputer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "coller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "emporter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "élaborer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "enserrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "appuyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "contacter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déterminer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "disposer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "classer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "décrocher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "épingler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "affronter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "copier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "célébrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "adopter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éternuer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étrangler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "circuler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "débuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attirer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déranger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "chercher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dispenser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "énerver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exagérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cesser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "escalader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "entamer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baigner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "deviner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "écouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "briller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "céder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "consacrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déboucher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ajouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éprouver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "creuser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "commander",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éveiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arranger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baisser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ériger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déplacer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "accuser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "acheter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "enterrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "donner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cerner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "échanger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "endurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "encourager",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bercer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "différer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "élever",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "errer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "constater",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "conserver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "communiquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arracher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "commencer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exploiter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "enfoncer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "exploser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "expulser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "conseiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "engendrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "décider",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "digérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "expliquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "déclarer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "détacher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dénicher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "épargner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avouer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "expédier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "écraser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "contribuer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "esquiver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "demander",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "excéder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "agir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "servir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "vêtir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "évanouir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "convertir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "devenir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "frémir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "vertir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "hair",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "défaillir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "parcourir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cueillir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "rougir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "languir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "tenir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "réjouir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "sortir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "unir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "agrandir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dépérir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "détenir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "investir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "pâlir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "réagir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ressentir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "désobéir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aboutir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blanchir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "établir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "rétablir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "approfondir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "émouvoir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "réfléchir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "franchir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "partir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "définir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "durcir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "fournir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "jaillir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "nourrir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "applaudir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "élargir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "démolir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "garantir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "quérir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "obéir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "fléchir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "munir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "envahir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "guérir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "salir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "réussir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "grandir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étourdir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "réunir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bondir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "grossir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "engourdir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "parvenir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dégourdir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "saisir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "trahir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "subir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brandir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "remplir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâtir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "sentir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "engloutir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "chérir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "punir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "jouir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "embellir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cuire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "convaincre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "pendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "absoudre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "perdre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "distraire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "éteindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "peindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "connaître",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "vaincre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "vivre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "moudre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "mordre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "suivre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "rendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "traduire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "craindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "étendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "plaindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "poursuivre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "vendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "défendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "répondre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "construire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "confondre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "dissoudre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "battre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "descendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "fondre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "plaire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "suffire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "feindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "détendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "naître",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "résoudre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "conclure",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "joindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "tordre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "rompre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "maudire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "offrir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "surseoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "mourir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "croître",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "atteindre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "tressaillir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "transpercer",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "ressortir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "couvrir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "redire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "redevenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "mouvoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "clore",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "entrevoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "nuire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "bouillir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "requérir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "voir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "taire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "interdire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "conquérir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "conduire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "survivre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "apercevoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "promettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "inclure",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "recouvrir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "souvenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "transparaître",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "soutenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "paraître",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "reprendre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "ouvrir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "remettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "retourner",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "savoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "écrire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "rejoindre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "retenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "mentir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "ressusciter",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "soumettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "refaire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "fuir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "rire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "transmettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "repartir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "repeindre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "recevoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "valoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "survenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "dormir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "souffrir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "mettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "produire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "revenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "prévoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "luire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "dire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "lire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "croire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "sourire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "pleuvoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "revaloir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "revoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "falloir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "courir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "acquérir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "braire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "entretenir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "bruire",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "asseoir",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "oindre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "rester",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "apparaître",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "reconnaître",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "émettre",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "exclure",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "abstraire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "adhérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "adjoindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "affliger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "affluer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "agencer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "agglomérer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aggraver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "alanguir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aléser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aligner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "alimenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "allécher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "alléger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "allier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "allouer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "allumer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amarrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "améliorer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amener",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amenuiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amortir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amplifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "amuser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ancrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "anéantir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "animer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "annexer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "annoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "annuler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apaiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apitoyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aplanir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aplatir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apologétique",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "apostropher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apothéose",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "appréhender",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apprendre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apprécier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apprêter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apprivoiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "approcher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "approprier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "approuver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "apurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "architecturer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "archiver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "armer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aromatiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arpenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arraisonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arrondir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "arythmie",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "ascensionner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "asperger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aspirer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assagir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assaillir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assassiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assécher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assembler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assener",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "asservir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assimiler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assister",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "associer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assortir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assouplir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assourdir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assouvir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assujettir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "assurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "asticoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "astiquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "astreindre",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "atermoyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "atrophier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "atteler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attendrir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "atterrir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attester",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attribuer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attrister",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "attrouper",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "auditionner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "augmenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "augurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ausculter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "authentifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "autoriser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avaries",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "aventurer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avertir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aveugler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avilir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aviser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avitailler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "aviver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "avorter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "axer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "azer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "babiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâcher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâcler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "badigeonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bafouer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bafouiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâfrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "balader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "balayer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "balbutier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baleiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "balkaniser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ballader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ballonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "ballotter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "banaliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bannir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "banqueter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baptiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baragouiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barbouiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bariller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barioler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baronner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baroquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barouder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barreauder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barricader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barrir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "barter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "basculer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bassiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bâtonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baudelairiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baudouiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "baver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bavarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bavasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bavocher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bayader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bayer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bazarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "béatifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "beaugencer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "beugler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biaiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biberonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bicher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bichonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bider",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bidonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biffer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bifurquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bigarrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bigler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bigophoner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bilingue",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "biller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biloquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biologiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biontologiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biper",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biqueter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biscotter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biseauter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bisquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bistourner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bistrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bitter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bitumer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "biturer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bivaquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bivouaquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bizuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blackbouler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blaguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blairer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blanchiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blasphémer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blâtrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bléer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blêmir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bleuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blinder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blinquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blondir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blondoyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bloquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blottir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "blouser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bluffer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bluter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bobiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boetter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boissonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boitiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boiter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bombancer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bombarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bombir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bombonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bonder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bondonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bonifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bonimenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bonneter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bonnir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boquillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "borner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bosseler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bosser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bossuer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bostonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "botter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boucaner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boucharder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouchonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boucher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boucler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boudiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouffer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouffir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouffonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bougonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouillotter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boulanger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouleverser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouliner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boulotter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boumer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouquiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourdonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourgeonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourlinguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourriquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bourser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boursicoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boursoufler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bousiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bousquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bousculer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouteiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boutonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouturer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bouvardeer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boxer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boyauter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "boyauder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "braconner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brailler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "braiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brambaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brambiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brancarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brancher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brandiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brander",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "braquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "braser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brasiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brasquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bravader",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "braver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brayer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brésiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bretauder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bretter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bretteler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "breuiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "breveter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bricoler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brider",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brimbaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brimballer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brimer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brinquebaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "briquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "britanniser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brocanter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brocarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brocher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brocheter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "broder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bronzer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brosser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brouetter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brouiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brouillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brouir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "broussaille",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "broussiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "broyer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bruir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bruissir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brumiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bruncher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brunir",
+      "group": "-ir",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brunzer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brusquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "brutaliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bruter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bruxeller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buccoliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bûcher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bûcheronner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bucoliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buffeter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bugger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buander",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buissonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "bureaucratiser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buriner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "busquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "butter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buvarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buvoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "buzzer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "câbler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cacheter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caddier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadeauter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadencer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadetter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadraner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cadrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cafarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cafeter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cafouiller",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cageoler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cagouler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cahuter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cailler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caillouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caillasser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cajoler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calancher",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calanquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calfeutrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calibrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calicoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "califourchonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caliner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "câliner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "câlisser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calker",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calligraphier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calomnier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calorifuger",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calquer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caltot",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "calter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calutiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "calvaire",
+      "group": "-re",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cambrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cameloter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "camer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "camionner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "camoufler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "camper",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "camphrer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canaliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canarder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cancaner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canetter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canevas",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "canevasse",
+      "group": "irregular",
+      "irregularity": true
+    },
+    {
+      "infinitive": "canibaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caniner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cantiner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "cantonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "canuler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caoutchouter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caparaçonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capeler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caper",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capitonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capitaliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capituler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caponner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capoter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caprifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "captiver",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "capturer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caqueter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caracoler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carafer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caramboler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caraméliser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carapater",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carboniser",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carburer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carder",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carencer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carguer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "caricaturer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carillonner",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carminer",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carméliter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carnavaler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carneler",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carnifier",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carotter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carpenter",
+      "group": "-er",
+      "irregularity": false
+    },
+    {
+      "infinitive": "carreler",
+      "group": "-er",
+      "irregularity": false
+    }
+  ]
+}
