@@ -18,7 +18,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 ---
 
 ## Task 1: Curated French Verbs Data File
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Build `data/french_verbs.json` with ~500-1000 C2 verbs
 - **Inputs**: Wiktionary and standard C2 verb lists
 - **Outputs**: JSON with infinitive, group (-er/-ir/-re), irregularity flag
@@ -27,7 +27,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: All 3 groups present, irregulars have full tables
 
 ## Task 2: Conjugation Engine
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Lightweight conjugation generator (no external dependencies)
 - **Inputs**: Verb infinitive, tense/mood, pronoun
 - **Outputs**: Correct conjugated form
@@ -36,7 +36,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Returns "suis", "finissons", "mangeons"
 
 ## Task 3: Performance Tracking System
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Track user progress in `data/user_progress.json`
 - **Inputs**: Correct/incorrect answers, sentence completion, skips
 - **Outputs**: Updated JSON with counts and timestamps
@@ -45,7 +45,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Accurate counts, no data loss on interrupted session
 
 ## Task 4: Verb Recommendation Algorithm
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Recommend verbs based on performance + randomness
 - **Inputs**: User progress, session type (short=1 verb, long=3 verbs)
 - **Outputs**: Recommended verbs with suggested tense
@@ -54,7 +54,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Returns prioritized verbs with random component
 
 ## Task 5: Practice Mode
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Interactive practice with immediate feedback
 - **Inputs**: User conjugation attempts per pronoun
 - **Outputs**: Correct/incorrect feedback, progression
@@ -63,7 +63,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: All pronouns covered, feedback given, progress saved
 
 ## Task 6: Quiz Mode
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: 5-question quiz with end scoring
 - **Inputs**: User answers to fill-in-the-blank
 - **Outputs**: Score /5, corrections at end
@@ -72,7 +72,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Accurate score, corrections shown, practice offered
 
 ## Task 7: Status Display
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Show user progress metrics
 - **Inputs**: User progress data
 - **Outputs**: Formatted status display
@@ -81,7 +81,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Accurate counts, clear formatting
 
 ## Task 8: Sentence Practice/Quiz
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: User creates sentences with practiced verbs
 - **Inputs**: User-written sentences (one per verb)
 - **Outputs**: Correction/feedback, skip tracking
@@ -90,7 +90,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: Sentence evaluated, skip option works
 
 ## Task 9: CLI Chatbot Interface
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Interactive command-line interface
 - **Inputs**: User commands via terminal
 - **Outputs**: Menus, prompts, responses
@@ -99,7 +99,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: All options accessible, commands parsed correctly
 
 ## Task 10: Edge Cases & Error Recovery
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Robust error handling
 - **Inputs**: Corrupted files, missing data, interrupted sessions
 - **Outputs**: Graceful recovery, user prompts
@@ -108,7 +108,7 @@ CLI chatbot for practicing French verb conjugation (C2 level). Practices 1-3 ver
 - **Evaluation Criteria**: No crashes, appropriate prompts
 
 ## Task 11: Entry Point & Installation
-- **Implemented**: false | **Test Passed**: false
+- **Implemented**: true | **Test Passed**: true
 - **Goal**: Installable Python package
 - **Inputs**: N/A
 - **Outputs**: `python -m les_verbs` or `les-verbs` command
