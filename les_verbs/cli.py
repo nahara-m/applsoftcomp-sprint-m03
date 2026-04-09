@@ -1,7 +1,7 @@
 """CLI chatbot interface for les-verbs."""
 
 import sys
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 from les_verbs.engine import ConjugationEngine
 from les_verbs.tracker import PerformanceTracker
@@ -21,7 +21,7 @@ class CLI:
         self.tracker = PerformanceTracker()
         self.recommender = VerbRecommender(self.tracker)
         self.practice = PracticeMode(self.engine, self.tracker)
-        self.quiz = QuizMode(self.engine)
+        self.quiz = QuizMode(self.engine, self.tracker)
         self.status = StatusDisplay(self.tracker)
         self.sentence = SentencePractice(self.engine, self.tracker)
         self.running = True
@@ -173,7 +173,28 @@ class CLI:
 
     def _run_quiz(self) -> None:
         """Run quiz mode."""
-        self.quiz.run_quiz_interactive()
+        # Check if user has practiced any verbs
+        all_stats = self.tracker.get_all_stats()
+
+        if all_stats["verbs_practiced"] == 0:
+            print(f"\n{'=' * 60}")
+            print("  Quiz Mode")
+            print(f"{'=' * 60}")
+            print("\n  ⚠️  You haven't practiced any verbs yet!")
+            print("  Quiz will use random verbs from the database.")
+            print("  Practice some verbs first for a better experience.\n")
+            questions = self.quiz.generate_questions(5)
+        else:
+            # Get practiced verbs for quiz
+            practiced_verbs = list(self.tracker.progress["verbs"].keys())
+            print(f"\n  Quiz will use your {len(practiced_verbs)} practiced verb(s).")
+            questions = self.quiz.generate_questions(5, verbs_filter=practiced_verbs)
+
+        if not questions:
+            print("  ⚠️  No questions available!")
+            return
+
+        self._run_quiz_with_questions(questions)
 
     def _show_status(self) -> None:
         """Show user status."""
@@ -263,6 +284,41 @@ class CLI:
                 print(f"  ❌ Correct answer: {q['correct_answer']}")
 
         print(f"\n  Score: {score}/5")
+
+    def _run_quiz_with_questions(self, questions: List[Dict]) -> None:
+        """Run quiz with provided questions."""
+        print(f"\n{'=' * 60}")
+        print("  Quiz Mode")
+        print(f"{'=' * 60}")
+        print("\n  Type the correct conjugation or 'quit' to exit")
+        print("  Press Enter to skip a question\n")
+
+        score = 0
+        results = []
+
+        for i, question in enumerate(questions, 1):
+            print(self.quiz.format_question(question, i))
+            user_answer = input("  Your answer: ").strip()
+
+            if user_answer.lower() == "quit":
+                print("\n  Quiz cancelled.")
+                return
+
+            correct_answer = question["correct_answer"]
+            is_correct = user_answer.lower() == correct_answer.lower()
+
+            if is_correct:
+                score += 1
+
+            results.append(
+                {
+                    "question": question,
+                    "user_answer": user_answer,
+                    "is_correct": is_correct,
+                }
+            )
+
+        print(self.quiz.format_results(score, len(questions), results))
 
     def _offer_sentence_practice(self, verbs: List[str]) -> None:
         """Offer sentence practice after completing verbs."""

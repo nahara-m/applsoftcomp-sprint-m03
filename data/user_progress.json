@@ -37,7 +37,7 @@
           }
         }
       },
-      "sentence_usage": 1,
+      "sentence_usage": 2,
       "sentence_skip": 0,
       "first_practiced": "2026-04-09T01:48:04.249407"
     },
@@ -46,19 +46,19 @@
         "présent": {
           "pronouns": {
             "je": {
-              "correct": 0,
+              "correct": 1,
               "incorrect": 1,
-              "last_practiced": "2026-04-09T02:13:54.476489"
+              "last_practiced": "2026-04-09T02:30:05.901162"
             },
             "tu": {
               "correct": 1,
-              "incorrect": 0,
-              "last_practiced": "2026-04-09T02:13:58.794303"
+              "incorrect": 1,
+              "last_practiced": "2026-04-09T02:30:12.547186"
             },
             "il/elle/on": {
               "correct": 0,
-              "incorrect": 1,
-              "last_practiced": "2026-04-09T02:14:01.051990"
+              "incorrect": 2,
+              "last_practiced": "2026-04-09T02:30:21.101666"
             },
             "nous": {
               "correct": 1,
@@ -78,7 +78,7 @@
           }
         }
       },
-      "sentence_usage": 1,
+      "sentence_usage": 2,
       "sentence_skip": 0,
       "first_practiced": "2026-04-09T02:13:54.476468"
     }
